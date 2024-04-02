@@ -1,0 +1,15 @@
+- 17/11/2023: Họp team lần đầu phân công nhiệm vụ
+	+ Yêu cầu: mọi người trong nhóm hiểu vấn đề 
+
+- 2/12/2023: Họp team lần 2, phân công nhiệm vụ
+	+ Tấn Phát: soạn nội dung Problem 1
+	+ Anh Khoa: tìm hiểu code Problem 1
+	+ Đại Phát: soạn nội dung Problem 2
+	+ Đăng Khoa: soạn nội dung Problem 2
+	+ Tấn Tài: tìm hiểu code Problem 2
+	
+- 11/12/2023: Họp team lần 3
+	+ Nội dung: giải đáp thắc mắc, giúp đỡ nhau trong các vấn đề
+
+- 29/12/2023: Họp team lần 4
+	+ Nội dung: chốt phương án cuối cùng, tinh chỉnh soạn thảo nội dung báo cáo
